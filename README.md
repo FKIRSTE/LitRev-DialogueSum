@@ -2,8 +2,6 @@
 Summarization
 
 
-![Stars](https://img.shields.io/github.com/FKIRSTE/LitRev-DialogueSum?color=yellow)
-
 A collection of papers and resources across the four principal components of dialogue summarization: Challenges, Techniques, Datasets, and Metrics.
 The sub-folders contain our code to crawl the [Semantic Scholar](https://www.semanticscholar.org/) and [DBLP](https://dblp.org/) databases.
 We intend to periodically update this repository for its ongoing relevance in the current era of LLMs. Stay tuned!
