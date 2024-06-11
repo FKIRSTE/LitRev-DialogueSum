@@ -1,3 +1,6 @@
+<div align="center"> <img src="https://raw.githubusercontent.com/fkirste/LitRev-DialogueSum/github-header-image.png"> </div>
+
+# >> This repository is under construction <<
 
 
 # A Systematic Literature Review on the Challenges of Abstractive Dialogue
